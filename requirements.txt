@@ -1,0 +1,17 @@
+# Core
+streamlit==1.35.0
+pandas==2.2.2
+numpy==1.26.4
+
+# Gráficas
+matplotlib==3.8.4
+
+# Excel
+openpyxl==3.1.5
+
+# Si usas Postgres, descomenta
+# psycopg2-binary==2.9.9
+# SQLAlchemy==2.0.35
+
+# Si cargas variables desde .env, descomenta
+# python-dotenv==1.0.1
